@@ -16,7 +16,7 @@ manifest:
       url-base: https://github.com/TinySilverfish
   projects:
     - name: zmk
-      remote: caksoylar
+      remote: TinySilverfish
       revision: caksoylar/zen-v1+v2  # custom branch name
       import: app/west.yml
   self:
